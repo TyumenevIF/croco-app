@@ -10,6 +10,6 @@ import UIKit
 
 struct Team {
     let name: String?
-    let emoji: UIImage?
-    let result: String?
+    let emoji: String
+    let crossImage: String?
 }
